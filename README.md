@@ -27,6 +27,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </a>
 </p>
 
