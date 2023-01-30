@@ -34,3 +34,6 @@
 <p><img align="left" width="410" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yilmazmustafayilmaz&show_icons=true&theme=radical" alt="yilmazmustafayilmaz" /></p>
 
 <p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api?username=yilmazmustafayilmaz&show_icons=true&locale=en&theme=radical" alt="yilmazmustafayilmaz" /></p>
+
+![Anurag's GitHub repo](https://github-readme-repo.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
