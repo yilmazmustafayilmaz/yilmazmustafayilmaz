@@ -25,9 +25,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cs,dotnet"/> &emsp;
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode"/> &emsp;
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css"/> &emsp;
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/> &emsp;
+    <img src="https://skillicons.dev/icons?i=git,github"/> &emsp;
   </a>
 </p>
 
