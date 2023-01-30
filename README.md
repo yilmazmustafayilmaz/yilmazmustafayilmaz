@@ -34,6 +34,3 @@
 <p><img align="left" width="410" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yilmazmustafayilmaz&show_icons=true&theme=radical" alt="yilmazmustafayilmaz" /></p>
 
 <p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api?username=yilmazmustafayilmaz&show_icons=true&locale=en&theme=radical" alt="yilmazmustafayilmaz" /></p>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yilmazmustafayilmaz&repo=MY.OnionArchitecture)](https://github.com/anuraghazra/github-readme-stats)
-
