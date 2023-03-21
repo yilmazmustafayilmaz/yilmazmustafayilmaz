@@ -22,12 +22,7 @@
 <a href="https://www.hackerrank.com/yilmaz_my" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yilmaz_my" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,bootstrap,html,css,mysql,postgres,redis,git,github"/>
-  </a>
-</p>
+
 
 <p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazmustafayilmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="yilmazmustafayilmaz" /></p>
 
