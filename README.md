@@ -29,7 +29,9 @@
   </a>
 </p>
 
-<p><img align="center" width="500" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazmustafayilmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="yilmazmustafayilmaz" /></p>
+<p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazmustafayilmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="yilmazmustafayilmaz" /></p>
+
+<p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazmustafayilmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="yilmazmustafayilmaz" /></p>
 
 <p><img align="left" width="410" height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=yilmazmustafayilmaz&show_icons=true&theme=radical" alt="yilmazmustafayilmaz" /></p>
 
