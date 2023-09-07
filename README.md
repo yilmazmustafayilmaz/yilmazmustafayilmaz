@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **.Net Core**
 
-- 🌱 I’m currently learning **.Net Core 7**
+- 🌱 I’m currently learning **.Net Core 8**
 
 - 📝 I regularly write articles on [https://medium.com/@yilmaz.my](https://medium.com/@yilmaz.my)
 
