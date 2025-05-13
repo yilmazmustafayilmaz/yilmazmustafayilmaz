@@ -20,8 +20,9 @@
 <a href="https://instagram.com/mustafa.y.i.l.m.a.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa.y.i.l.m.a.z" height="30" width="40" /></a>
 <a href="https://medium.com/@yilmaz.my" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yilmaz.my" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yilmaz_my" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yilmaz_my" height="30" width="40" /></a>
-</p>
+  
 <img src="https://tryhackme-badges.s3.amazonaws.com/m.y.x.png" alt="Your Image Badge" />
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
