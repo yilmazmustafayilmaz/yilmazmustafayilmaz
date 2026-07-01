@@ -24,7 +24,3 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,bootstrap,html,css,mysql,postgres,mongodb,redis,git,github,docker"/>
   </a>
 </p>
-
-<p><img align="left" width="410" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=yilmazmustafayilmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="yilmazmustafayilmaz" /></p>
-
-<p><img align="center" width="410" height="165" src="https://github-readme-stats.vercel.app/api?username=yilmazmustafayilmaz&show_icons=true&locale=en&theme=radical" alt="yilmazmustafayilmaz" /></p>
